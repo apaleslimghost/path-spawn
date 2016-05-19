@@ -1,0 +1,20 @@
+{
+  "name": "path-spawn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarterto/path-spawn.git"
+  },
+  "keywords": [],
+  "author": "Matt Brennan <matt@153.io> (http://blog.153.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/path-spawn/issues"
+  },
+  "homepage": "https://github.com/quarterto/path-spawn#readme"
+}

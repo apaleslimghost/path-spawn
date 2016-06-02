@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/quarterto/path-spawn/issues"
   },
-  "homepage": "https://github.com/quarterto/path-spawn#readme"
+  "homepage": "https://github.com/quarterto/path-spawn#readme",
+  "dependencies": {
+    "child-process-promise": "^2.0.2",
+    "path-executables": "^3.0.0"
+  }
 }
